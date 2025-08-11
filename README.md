@@ -1,5 +1,5 @@
 # pdf页面放大百分之20  
-PDF-page-zoom-in-by-20-persent-
+PDF-page-zoom-in-by-20-percent-
 此python程序可以把pdf页面放大百分之20后输出。
 This Python program can output the PDF pages after zooming in by 20%.
 第一次使用github，如有错误请见谅，这个程序主要是为了消除pdf文件的白边
